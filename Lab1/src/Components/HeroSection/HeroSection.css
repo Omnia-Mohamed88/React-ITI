@@ -1,0 +1,30 @@
+.hero-section {
+    background-image: url('../../Assets/images/hero-image.avif');
+    background-size: 100% auto; 
+    background-position: center center;
+    height: 80vh; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-content {
+    text-align: center;
+    color: white;
+}
+
+.hero-content h1 {
+    font-size: 3rem;
+    margin-bottom: 10px;
+}
+
+.hero-content h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+.hero-button{
+   
+   
+        background-color: rgb(63, 63, 50);
+    
+}

@@ -1,0 +1,27 @@
+/* Footer.css */
+
+.footer {
+    background-color: #333; 
+    color: #fff; 
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .email-icon {
+    font-size: 1.5rem;
+    margin-right: 10px;
+  }
+  
+  .email-text {
+    font-size: 1rem;
+  }
+  
+  .social-icons {
+    margin-top: 20px;
+  }
+  
+  .social-icon {
+    font-size: 1.5rem;
+    margin: 0 10px;
+  }
+  

@@ -1,0 +1,58 @@
+.skills-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+#skills {
+    margin-top: 20px;
+}
+#ul{
+    margin-top:40px;
+}
+#li{
+    margin-top: 20px;
+}
+.side-title {
+    flex: 1;
+    padding: 0 20px;
+}
+
+.side-title h2 {
+    font-size: 2rem;
+    margin: 0 0 10px 0;
+}
+
+.side-title ul {
+    list-style: none;
+    padding: 0;
+}
+
+.side-title li {
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+}
+
+.skills-content {
+    flex: 3;
+    padding: 0 20px;
+}
+
+.skills-content h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.progress-bars {
+    display: flex;
+    flex-direction: column;
+}
+
+.progress-bar-item {
+    margin-bottom: 20px;
+}
+
+.progress-bar-item span {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}

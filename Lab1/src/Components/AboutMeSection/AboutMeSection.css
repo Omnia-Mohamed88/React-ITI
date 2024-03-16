@@ -1,0 +1,34 @@
+/* AboutMeSection.css */
+
+.about-me-section {
+    display: flex;
+    align-items: center;
+}
+
+.side-title {
+    flex: 1;
+    padding: 0 20px; 
+}
+
+.side-title h2 {
+    font-size: 2rem;
+    margin: 0;
+}
+
+.about-me-content {
+    flex: 3;
+    padding: 20px;
+}
+
+.about-me-content h3 {
+    margin-top: 10px;
+    font-size: 1.5rem;
+}
+
+.about-me-content p {
+    font-size: 1rem;
+}
+
+.custom-button {
+    background-color: rgb(63, 63, 50);
+}
