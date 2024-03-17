@@ -1,0 +1,23 @@
+.portfolio-section {
+    padding: 20px;
+}
+
+.portfolio-grid {
+    display: flex;
+    flex-direction: column;
+}
+
+.portfolio-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.portfolio-card {
+    width: calc(33.33% - 10px); 
+}
+
+.odd-card {
+    background-color: rgb(63, 63, 50);
+    color: aliceblue;
+}
