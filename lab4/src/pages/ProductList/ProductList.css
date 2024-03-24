@@ -1,0 +1,19 @@
+.card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 30px;
+}
+
+
+.card-grid > div:first-child {
+    margin-top: 20px; 
+}
+
+.card {
+    border: 1px solid  #dee2e6; 
+}
+
+.card-img {
+    max-height: 200px;
+    max-width: 300px;
+}
